@@ -1,0 +1,182 @@
+/* common classes */
+.divHeight{
+	height:100%;
+}
+
+.mainTextColor {
+	color: white;
+}
+
+
+#main{
+	background-image: url("../image/header.jpg");
+	background-size: cover;
+
+}
+#main .container-fluid{
+	padding: 0px;
+}
+#main .navbar{
+	border-radius: 0px;
+}
+
+#main h3 {
+	font-style: italic;
+	font-size: 3em;
+}
+#main h1 {
+	font-size: 5em;
+	font-weight: 700;
+}
+#main .btn {
+	border-radius: 0;
+	padding: 20px;
+}
+#main .content{
+	padding: 50px 0;
+}
+
+
+#services {
+}
+
+#services .mainColor{
+background-color: white;
+}
+#services h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+#services i{
+	color: white;
+	background-color: #FED136;
+	border-radius: 100%;
+	padding:30px;
+}
+
+#services h6 {
+	padding: 20px 0;
+	font-style: italic;
+
+}
+#services .content {
+	padding: 50px 0;
+}
+
+
+
+#portfolio {
+	
+}
+#portfolio .mainColor{
+	background-color: lightgray;
+}
+
+#portfolio .content {
+	padding: 50px 0;
+}
+
+#portfolio h1 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+#portfolio h6 {
+	padding: 20px 0;
+	font-style: italic;
+}
+
+
+#about{
+	min-height: 1000px;
+}
+#about .mainColor{
+	background-color: yellow;
+}
+#team{
+	min-height: 600px;
+	background-color: #EEEEEE;
+}
+#team .mainColor{
+	background-color: red;
+}
+#contact{
+	min-height: 500px;
+}
+#contact .mainColor{
+	background-color: gray;
+}
+
+#about h5 {
+	font-style: italic;
+}
+
+#about {
+	background-color: #FFFFFF
+}
+#about .panel {
+	min-height: 200px;
+	
+	margin:0;
+	padding: 0;
+	border: none;
+}
+
+.panel img {
+	margin-top: 30px;
+}
+
+.lineHeight {
+	line-height: 25px;
+}
+.verticalSpacer {
+	min-height: 40px;
+}
+
+#team .row div {
+	min-height: 400px;
+	
+	padding: 30px;
+}
+
+#team i {
+	margin:5px;
+}
+
+.textHeight {
+	height: 60px;
+	width: 100%;
+	border-radius: 5px;
+	border:none;
+	margin-top: 40px;
+
+}
+
+.txt {
+	
+	margin: 0px;
+	min-height: 390px;
+	padding: 30px;
+}
+
+#contact {
+	background-color: #EEEEEE;
+}
+	
+
+#contact textarea {
+	margin-top: 40px;
+}
+
+#contact .btn {
+	width: 150px;
+	height: 60px;
+	padding: 5px;
+	font-size: 20px;
+}
+
+#footer {
+	height: 60px;
+	background-color: black;
+	
+}
